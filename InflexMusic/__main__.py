@@ -78,4 +78,4 @@ async def init():
 
 if __name__ == "__main__":
     loop.run_until_complete(init())
-    LOGGER("InflexMusic").info("Stopping Inflex Music Bot! GoodBye")
+    LOGGER("InflexMusic").info("Stopping Inflex Music Bot! Bye")
